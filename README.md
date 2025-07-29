@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxonT
-- 👀 I’m interested in COmputer Science. I am 17 years old now. 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Computer Science. I am 18 years old now. 
+- 🌱 I have already learnt JavaScript, Python, Git and currently strengthen my basis. 
 - 😄 Pronouns: Yang
 
 <!---
