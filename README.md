@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MaxonT
-- 👀 I’m interested in Computer Science. I am 18 years old now. 
-- 🌱 I have already learnt JavaScript, Python, Git and currently strengthen my basis. 
-- 😄 Pronouns: Yang
+- 👀 I’m interested in Business Management, and Computer Science. 
+- 🌱 I have already learnt Java, Python, Git and currently strengthen my basis.
+- Plan to study: C, Go, SQL, Docker, HTTP
+- 😄 Pronouns: Tiger Yang
 
 <!---
 MaxonT/MaxonT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
