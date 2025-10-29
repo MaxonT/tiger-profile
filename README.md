@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @MaxonT
-- 👀 I’m interested in Business Management, Computer Science, HOD (Human Organization Development)
-- 🌱 I have already learnt Java, Python, Git and currently strengthen my basis.
-- 🌱🌱 My Big Five personality is Achiever. My strengths lie in breaking down big goals into clear, organized steps, keeping everything on track (feasibility and rational evaluation are crucial!!), and managing the well-being of a team (something I’ve practiced a lot in leadership roles). I’m also good at balancing different factors to make sure progress is steady and sustainable.
-- 🌱🌱🌱Plan to study: C, Go, SQL, Docker, HTTP
-- 😄 Pronouns: Tiger Yang
-
-<!---
-MaxonT/MaxonT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Tiger (MaxonT)  
+  
+I'm a developer passionate about **AI, creativity tools, and human-computer expression**.  
+Currently building **[HumanLiker](https://github.com/MaxonT/HumanLiker)** — a local AI tool that makes writing sound more natural and human.  
+  
+---  
+  
+### 🚀 What I'm working on  
+- 🧐 **HumanLiker** – AI text humanizer for writing with warmth  
+- 💡 **Portofolio** – my evolving personal site & showcase  
+- 🧹 Exploring **Web + AI** integration projects  
+  
+---  
+  
+### 🧪 Tech Stack  
+`Java` `Python` `JavaScript` `React` `Node.js`  
+`Express` `MongoDB` `LangChain` `OpenAI API`  
+  
+---  
+  
+### 📊 GitHub Stats  
+![Tiger's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxonT&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxonT&layout=compact&theme=radical)  
+  
+---  
+  
+### 🌍 Let's Connect  
+[LinkedIn](#) • [Email](mailto:ming.t.yang@vanderbilt.edu)
