@@ -12,8 +12,8 @@ I'm a developer passionate about **AI, creativity tools, and human-computer expr
 ---
 
 ### 🧪 Tech Stack
-`Java` `Python` `JavaScript` `React` `Node.js`  
-`Express` `MongoDB` `LangChain` `OpenAI API`
+`C++` `CSS` `Java` `Python` `JavaScript` `React` `Node.js`  
+`Express` `MongoDB` `LangChain` `HTML` 
 
 ---
 
