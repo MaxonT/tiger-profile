@@ -4,7 +4,7 @@ I'm a developer passionate about **AI, creativity tools, and human-computer expr
 
 ---
 
-### 🚀 What I'm working on
+###  What I'm working on
 - 🤔 **HumanLiker** – AI text humanizer for writing with warmth
 - 💡 **portfolio-app** – my evolving personal site & showcase
 - 🦑 Exploring **Web + AI** integration projects
@@ -27,5 +27,6 @@ I'm a developer passionate about **AI, creativity tools, and human-computer expr
 LinkedIn:www.linkedin.com/in/ming-yang-14270837a
 ---
 Email:ming.t.yang@vanderbilt.edu
+---
 
 > This repo was previously named **MaxonT**.
