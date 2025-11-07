@@ -4,7 +4,7 @@ I'm a developer passionate about **softwares, AI, creativity tools, and human-co
 
 ---
 
-###  What I'm working on
+###  What I'm working ons
 - 🤔 **HumanLiker** – AI text humanizer for writing with warmth
 - 💡 **portfolio-app** – my evolving personal site & showcase
 - 🦑 Exploring **Web + AI** integration projects
