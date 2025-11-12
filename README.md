@@ -5,10 +5,12 @@ I'm a developer passionate about **softwares, AI, creativity tools, and human-co
 
 ---
 
-###  What I'm working ons
-- 🤔 **HumanLiker** – AI text humanizer for writing with warmth
-- 💡 **portfolio-app** – my evolving personal site & showcase
-- 🦑 Exploring **Web + AI** integration projects
+
+### 🚀 What I'm Building
+
+- 🧠 **[Promptly](#)** — an AI prompt-optimization studio that enhances, validates, and humanizes LLM instructions  
+- 💬 **[HumanLiker](https://github.com/MaxonT/HumanLiker)** — a local AI writer that transforms text into authentic, emotionally resonant language  
+- 🕸️ **MeetMesh** — a real-time mesh for human coordination and AI-assisted scheduling  
 
 ---
 
