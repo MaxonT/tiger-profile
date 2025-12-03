@@ -21,7 +21,7 @@ I'm a developer passionate about **softwares, AI, creativity tools, and human-co
 ---
 
 ### 📊 GitHub Stats
-![Tiger's GitHub stats](https://github-readme-stats-fya9ny930-tigermingyangs-projects.vercel.app/api?username=MaxonT&show_icons=true&theme=radical)
+![Tiger's GitHub stats](https://vercel.com/tigermingyangs-projects/github-readme-stats/HCYCZjfZjUq59VSApXQKbP54g8xR/api?username=MaxonT&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-fya9ny930-tigermingyangs-projects.vercel.app/api/top-langs/?username=MaxonT&layout=compact&theme=radical)
 
 ---
