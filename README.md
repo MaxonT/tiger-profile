@@ -27,9 +27,9 @@ I'm a developer passionate about **softwares, AI, creativity tools, and human-co
 ---
 
 ### 🌍 Let's Connect
-LinkedIn:www.linkedin.com/in/ming-yang-14270837a
+- LinkedIn:www.linkedin.com/in/ming-yang-14270837a
 ---
-Email:ming.t.yang@vanderbilt.edu
+- Email:ming.t.yang@vanderbilt.edu
 ---
 
 > This repo was previously named **MaxonT**.
