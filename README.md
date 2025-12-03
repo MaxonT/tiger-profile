@@ -22,7 +22,7 @@ I'm a developer passionate about **softwares, AI, creativity tools, and human-co
 
 ### 📊 GitHub Stats
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxonT&theme=tokyonight&hide_border=true)
 ![Tiger's GitHub stats](https://github-readme-stats-2zkcok3az-tigermingyangs-projects.vercel.app/api?username=MaxonT&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats-2zkcok3az-tigermingyangs-projects.vercel.app/api/top-langs/?username=MaxonT&layout=compact&theme=radical)
 
